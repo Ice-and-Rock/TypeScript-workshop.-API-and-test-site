@@ -1,0 +1,8 @@
+body {
+    display:flex ;
+    flex-direction: column;
+  background-color: linear-gradient(to bottom, #87ceeb, #ffc0cb);
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+}
